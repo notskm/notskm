@@ -11,7 +11,7 @@
 ### 🎓 Interesting Courses - Current
 ---
 #### Colorado State University
-- CS 454 - Principles of Programming Languages
+- CS 440 - Introduction to Artificial Intelligence
 - CS 310H - Design Thinking Toolbox: Mixed Reality Design
 
 ### 🎓 Interesting Courses - Finished
