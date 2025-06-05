@@ -1,7 +1,7 @@
 ### Hi! I'm Jacob Stearns
 ---
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/j-stearns)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://JacobStearns3@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto://Jacob.Stearns24+GHReadme@alumni.colostate.edu)
 
 - 🎓 B.S. in Computer Science at Colorado State University (2022-2024)
 - 🎓 A.S. in Computer Science at Finger Lakes Community College (2020-2022)
